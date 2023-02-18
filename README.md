@@ -9,5 +9,5 @@
 <img src="https://assets.tryhackme.com/img/THMlogo.png" width="200" height="105">
 
 [View Writeups](../../)
-- [ ] [RootMe](../../rootme) *(WIP)*
+- [x] [RootMe](../../rootme) *19 Feb 2023*
 - [ ] [](../../)
