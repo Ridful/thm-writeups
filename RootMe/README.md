@@ -1,7 +1,7 @@
 ## RootMe Writeup
-[Other THM Writeups](../../)
+[Other THM Writeups](../../../)
 
-**Author** : [Ridful](../../../)
+**Author** : [Ridful](../../../../)
 
 **THM** : [Ridful](https://tryhackme.com/p/Ridful)
 
